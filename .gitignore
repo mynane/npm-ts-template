@@ -1,0 +1,8 @@
+node_modules
+desktop.ini
+.DS_Store
+.idea
+.vscode
+dist
+*.log
+go.mod
